@@ -2,9 +2,9 @@
 
 ### Usage
 
-X will be replaced with charecter from the content.
+X will be replaced with charecter from the STRING.
 ```html
-{{content | stringFormatter : 'XXXX-XXXX-XXXX-XXXX'}}
+{{STRING | stringFormatter : 'XXXX-XXXX-XXXX-XXXX'}}
 ```
 
 #### Developer
